@@ -1,3 +1,3 @@
 # 3Dtracking-wavenet
 
-Reconstruct positions from accelorometrs using WaveNet
+Reconstruct positions from accelerometer using WaveNet
